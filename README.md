@@ -17,6 +17,6 @@ We take advantage of GitHub’s native Wiki utility, to develop a guide to using
 
 ## About the researchers
 
-Dr Karin de Wild…
+Dr Karin de Wild is lecturer in contemporary museum and collection studies at Leiden University (The Netherlands) with a particular research interest for museums in the digital age. Before joining Leiden University, she was a digital fellow at the University of Leicester. She has a past life as curator and collaborated with a range of museums from Tate and de Young Museum to SFMOMA.
 
 Lozana Rossenova is a digital designer and researcher. She is currently a PhD candidate at the [Centre for the Study of the Networked Image](https://www.centreforthestudyof.net/) at London South Bank University and her research is a collaborative doctoral partnership project with [Rhizome](https://rhizome.org/), a leading international born-digital art organization based in New York.
