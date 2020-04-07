@@ -15,8 +15,10 @@ We consider this project to be of relevance to digital art conservators, digital
 
 We take advantage of GitHub’s native Wiki utility, to develop a guide to using PROV for cultural heritage scholars and professionals. The guide will expand on the research presented at conferences, clearly present case studies that can be used as models for other cultural heritage projects, and will track relevant events, workshops, and presentations organized alongside this project. 
 
-## About the researchers
+## About the research team
 
-Dr Karin de Wild is a lecturer in contemporary museum and collection studies at Leiden University (The Netherlands) with a particular interest in digital collections. Before joining Leiden University, she was a digital fellow at the University of Leicester. She has a past life as curator and collaborated with a range of museums from Tate and de Young Museum to SFMOMA.
+Anisa Hawes is researcher and web archivist with an interest in critical curatorial practice and using open-source tools to preserve digital cultural memory. She has extensive experience working in national museums and collaborated with a range of heritage institutions, including the British Library/UK Web Archive, Digital Preservation Coalition, and Rhizome. As embedded researcher at the V&A, she led a collaborative project which investigated the challenges of ‘Collecting and Curating Digital Posters'.
 
 Lozana Rossenova is a digital designer and researcher. She is currently a PhD candidate at the [Centre for the Study of the Networked Image](https://www.centreforthestudyof.net/) at London South Bank University and her research is a collaborative doctoral partnership project with [Rhizome](https://rhizome.org/), a leading international born-digital art organization based in New York.
+
+Dr Karin de Wild is a lecturer in contemporary museum and collection studies at Leiden University (The Netherlands) with a particular interest in digital collections. Before joining Leiden University, she was a digital fellow at the University of Leicester investigating digital literacies in museums. She has a past life as curator and collaborated with a range of museums from Tate and de Young Museum to SFMOMA.
