@@ -1,4 +1,4 @@
-# PROV for cultural heritage
+# PROV resources for digital cultural heritage
 
 ## About the repository 
 This repository collects materials (papers, presentations, diagrams) related to a research project initiated by Dr Karin de Wild and Lozana Rossenova. Materials are organized into folders corresponding to events where the research was presented. The repository will grow as the research develops in scope and scale.
